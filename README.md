@@ -36,4 +36,4 @@ Este é um site institucional desenvolvido para **Paula Olivheira**, consultora 
 **Diego Oliveira**  
 Especialista em análise de dados e desenvolvimento web para negócios de pequeno e médio porte.  
 Email: diego.joliveira.dev@gmail.com  
-LinkedIn: [diego-oliveira]([https://www.linkedin.com/in/diego-jesus-317302178/])
+LinkedIn: [diego-oliveira](https://www.linkedin.com/in/diego-jesus-317302178/)

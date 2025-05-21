@@ -1,8 +1,6 @@
 {
-  "builds": [
-    { "src": "client/public/index.html", "use": "@vercel/static" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/client/public/index.html" }
+  "public": "client",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }

@@ -12,7 +12,7 @@ export default function AboutSection() {
             <div className="relative">
               <div className="absolute inset-0 transform translate-x-4 translate-y-4 bg-accent/10 rounded-xl"></div>
               <img
-                src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                src="https://i.ibb.co/X4Ytp9H/1000393505.jpg"
                 alt="Paula Olivheira em consultoria"
                 className="relative z-10 rounded-xl shadow-lg w-full h-auto object-cover"
               />

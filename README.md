@@ -34,6 +34,8 @@ Este é um site institucional desenvolvido para **Paula Olivheira**, consultora 
 ## ✨ Desenvolvido por
 
 **Diego Jesus**  
-Especialista em análise de dados e desenvolvimento web para negócios de pequeno e médio porte.  
-Email: diegoliveira634@gmail.com  
-LinkedIn: [diego-jesus](https://www.linkedin.com/in/diego-jesus-317302178/)
+
+Especialista em análise de dados e desenvolvimento web para negócios de pequeno e médio porte. 
+ 
+- Email: diegoliveira634@gmail.com  
+- LinkedIn: [diego-jesus](https://www.linkedin.com/in/diego-jesus-317302178/)

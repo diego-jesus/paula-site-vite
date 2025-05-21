@@ -1,6 +1,6 @@
 # Website - Paula Olivheira | Consultora de Imagem e Negócios
 
-Este é um site institucional desenvolvido para **Paula Oliveira**, consultora de imagem e especialista em posicionamento estratégico.
+Este é um site institucional desenvolvido para **Paula Olivheira**, consultora de imagem e especialista em posicionamento estratégico.
 
 ## 👩‍💼 Sobre a Cliente
 

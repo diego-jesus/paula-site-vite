@@ -6,7 +6,7 @@ export default function GallerySection() {
       subtitle: "Organização e seleção de peças-chave",
     },
     {
-      imageSrc: "https://images.unsplash.com/photo-1573591171391-5a7a02b5d968?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
+      imageSrc: "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
       title: "Coloração Pessoal",
       subtitle: "Descobrindo as cores que valorizam",
     },

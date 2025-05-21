@@ -5,7 +5,7 @@ export default function Hero() {
 
   useEffect(() => {
     const img = new Image();
-    img.src = "https://i.ibb.co/X4Ytp9H/1000393505.jpg";
+    img.src = "/paula.jpg";
     img.onload = () => setImageLoaded(true);
   }, []);
 
@@ -40,7 +40,7 @@ export default function Hero() {
             <div className="relative">
               <div className="absolute -inset-1.5 bg-accent rounded-xl blur-sm opacity-50"></div>
               <img
-                src="https://i.ibb.co/X4Ytp9H/1000393505.jpg"
+                src="/paula.jpg"
                 alt="Paula Olivheira - Consultora de Imagem"
                 className={`relative rounded-xl shadow-2xl max-w-full h-auto object-cover max-h-[500px] transition-opacity duration-500 ${
                   imageLoaded ? "opacity-100" : "opacity-0"

@@ -1,0 +1,80 @@
+Crie um site estático e responsivo para uma consultora de imagem, com foco em identidade visual, clareza na apresentação de serviços e sofisticação no design.
+Utilize Vite + React + TailwindCSS com componentes bem organizados e estrutura otimizada para deploy na Vercel ou GitHub Pages.
+
+A profissional se chama Paula Olivheira e atua como Consultora de Imagem, Consultora de Moda, Especialista em Posicionamento e Negócios, com foco em transformar a percepção visual de seus clientes.
+
+Estrutura esperada:
+1. Página inicial (Home):
+
+Imagem de destaque da profissional (foto anexa).
+
+Nome e título: Paula Olivheira – Consultora de Imagem e Posicionamento Pessoal.
+
+Frase de impacto: “Sua imagem comunica antes mesmo que você diga uma palavra”.
+
+2. Sobre mim:
+
+Resumo pessoal:
+
+"Sou consultora de imagem especializada em ajudar pessoas a expressarem sua melhor versão por meio da aparência, estilo e comunicação visual. Atuo com foco em coloração pessoal, análise de estilo, montagem de guarda-roupa inteligente, personal shopper e estratégias visuais para redes sociais. Meu trabalho é acolhedor, técnico e totalmente personalizado — voltado para quem deseja alinhar imagem, autenticidade e objetivos pessoais ou profissionais."
+
+Formação acadêmica:
+
+Executive MBA – Pontifícia Universidade Católica do Paraná
+
+MBA em Vendas, Negociação e Resultados de Alta Performance – PUC/PR
+
+Especializações:
+
+Administradora | MBA em Marketing | Consultora de Negócios | Consultora de Moda | Practitioner em PNL | Empreendedora Shell Iniciativa Jovem
+
+Experiência Profissional:
+
+Especialista de Pessoas e Gestão
+
+Gerente Administrativa na Balprensa
+
+Compradora no Supermercado Super Bom
+
+3. Serviços oferecidos:
+
+Coloração pessoal
+
+Análise de estilo
+
+Guarda-roupa inteligente
+
+Personal shopper
+
+Consultoria para redes sociais
+
+4. Portfólio ou Galeria (seção opcional):
+
+Espaço para depoimentos de clientes ou antes/depois
+
+5. Contato:
+
+Email: paulaolivheira@gmail.com
+
+WhatsApp: (21) 9 8772-7761 (com botão direto via API)
+
+Instagram: @paulaoliveis
+
+LinkedIn: linkedin.com/in/paula-olivheira-2a178999
+
+Formulário de contato simples e funcional, mesmo sem backend (ex: usar FormSubmit ou serviço similar).
+
+6. Rodapé:
+
+Nome, redes sociais e direitos autorais (© 2025 Paula Olivheira).
+
+Estilo:
+Fonte elegante (ex: Inter, Lato ou Playfair)
+
+Paleta neutra com tons sóbrios e toques de vermelho (inspirado na imagem com óculos vermelhos)
+
+Layout responsivo
+
+Componentes separados por pasta (components/)
+
+Código limpo e sem dependências desnecessárias

@@ -24,7 +24,7 @@ export default function ContactSection() {
     setSubmitError("");
 
     try {
-      const response = await fetch("https://formsubmit.co/ajax/paulaolivheira@gmail.com", {
+      const response = await fetch("https://formsubmit.co/ajax/diegoliveira634@gmail.com", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

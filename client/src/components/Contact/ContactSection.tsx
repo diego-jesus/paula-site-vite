@@ -22,7 +22,7 @@ export default function ContactSection() {
               >
                 <input type="hidden" name="_captcha" value="false" />
                 <input type="hidden" name="_subject" value="Novo contato pelo site" />
-                <input type="hidden" name="_next" value="https://seusite.vercel.app/obrigado" />
+                <input type="hidden" name="_next" value="https://paula-site-vite.vercel.app/" />
 
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-1">

@@ -16,7 +16,7 @@ export default function ContactSection() {
               <h3 className="text-xl font-bold playfair mb-6 text-primary">Envie uma mensagem</h3>
 
               <form
-                action="https://formsubmit.co/paulaolivheira@gmail.com"
+                action="https://formsubmit.co/diegoliveira634@gmail.com"
                 method="POST"
                 className="space-y-6"
               >

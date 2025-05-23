@@ -92,7 +92,9 @@ export default function ServicesSection() {
           <div key={categoryIndex} className="mb-16">
             <div className="flex items-center mb-8">
               <div className="h-px bg-accent flex-grow mr-4"></div>
-              <h3 className="text-xl md:text-2xl font-bold playfair text-primary whitespace-nowrap">{category.title}</h3>
+                <h3 className="text-base sm:text-xl md:text-2xl font-bold playfair text-primary text-center leading-snug px-2 max-w-[300px] mx-auto">
+                  {category.title}
+                </h3>
               <div className="h-px bg-accent flex-grow ml-4"></div>
             </div>
             

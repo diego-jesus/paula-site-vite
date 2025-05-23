@@ -1,6 +1,8 @@
-# Website - Paula Olivheira | Consultora de Imagem e Negócios
+# 🍀 Website - Paula Olivheira | Consultora de Imagem e Negócios
 
 Este é um site institucional desenvolvido para **Paula Olivheira**, consultora de imagem e especialista em posicionamento estratégico.
+
+---
 
 ## 👩‍💼 Sobre a Cliente
 
@@ -10,10 +12,14 @@ Este é um site institucional desenvolvido para **Paula Olivheira**, consultora 
 - MBA em Vendas, Negociação e Alta Performance – PUCPR
 - Executive MBA – PUCPR
 
+---
+
 ### 💼 Experiência Profissional
 - Especialista em Pessoas e Gestão
 - Gerente Administrativa na Balprensa
 - Compradora no Supermercado Super Bom
+
+---
 
 ### 📲 Contato
 - Instagram: [@paulaoliveis](https://instagram.com/paulaoliveis)
@@ -31,11 +37,8 @@ Este é um site institucional desenvolvido para **Paula Olivheira**, consultora 
 
 ---
 
-## ✨ Desenvolvido por
+## 👨‍💻 Sobre mim
 
-**Diego Jesus**  
+Sou analista de prevenção a fraudes buscando conhecimento e profundidade para entender a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
 
-Especialista em análise de dados em processo de formação. 
- 
-- Email: diegoliveira634@gmail.com  
-- LinkedIn: [diego-jesus](https://www.linkedin.com/in/diego-jesus-317302178/)
+📬 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/diego-jesus-317302178/)

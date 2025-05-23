@@ -39,6 +39,6 @@ Este é um site institucional desenvolvido para **Paula Olivheira**, consultora 
 
 ## 👨‍💻 Sobre mim
 
-Sou analista de prevenção a fraudes buscando conhecimento e profundidade para entender a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
+Me chamo Diego de Jesus Oliveira e sou analista de prevenção a fraudes buscando conhecimento e profundidade para entender a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
 
 📬 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/diego-jesus-317302178/)
